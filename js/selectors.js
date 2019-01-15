@@ -5,5 +5,5 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  return $("ul li:eq(3)")	;
+  return $("ul li:eq(2)")	;
 }
