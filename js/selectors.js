@@ -1,5 +1,6 @@
-// declare your functions here...
-function paragraphSelector() = [ ]; {
+var paragraphSelector = [];
+
+function paragraphSelector() {
   return $('#p')
 
 }
