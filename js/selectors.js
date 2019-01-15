@@ -21,6 +21,6 @@ function divSelector() {
 }
 
 function firstListItem() {
-  return $("ul li:eq(1)")	;
+  return $("ul li:eq(0)")	;
 
 }
