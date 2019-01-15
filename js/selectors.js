@@ -1,6 +1,6 @@
-var paragraphSelector = [];
+
 
 function paragraphSelector() {
-  return $('p')
+  return $('#p')
 
 }
