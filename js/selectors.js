@@ -21,5 +21,6 @@ function divSelector() {
 }
 
 function firstListItem() {
-  return 
+  return $('#')
+
 }
