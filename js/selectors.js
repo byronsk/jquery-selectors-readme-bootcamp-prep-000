@@ -21,6 +21,6 @@ function divSelector() {
 }
 
 function firstListItem() {
-  return $('#pic-list:last')
+  return $('#pic-list:last-child');
 
 }
